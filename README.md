@@ -12,15 +12,21 @@ Skills: PYTHON 3 / HTML
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lamer-Inc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](DiStRuTtOrE_Tm#6449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/SirDistru_tm/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lamer-Inc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/SirDistru_tm/)  
 
+Discord? Here we go:
+- DiStRuTtOrE_Tm#6449
+
+Troferi ottenuti:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lamer-Inc)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamer-Inc)](https://github.com/anuraghazra/github-readme-stats)
 
+I hope this will grow...
 ![Profile views](https://gpvc.arturio.dev/Lamer-Inc)  
 
-
+Just some stats about this profile, cause why not?
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamer-Inc)](https://github.com/anuraghazra/github-readme-stats)
 
 
